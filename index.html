@@ -38,8 +38,8 @@
 			<header> 
             	<!-- Logo -->
             	<div id="logo">
-                	<h2>CASEY BECKING</h2>
-                    <h4>Global Technology Director</h4>
+                	<h2>{{name}}</h2>
+                    <h4>{{title}}</h4>
                 </div>
                 <!-- /Logo -->
                 
@@ -68,21 +68,20 @@
                                 <li><img src="images/photo1.png" height="186" width="153" /></li>
                             </ul>
                         </div>
-                        <h1>CASEY BECKING</h1>
-                        <h3>Global Technology Director</h3>
-                        <p>Casey Becking is a driven, passionate and experience professional within the Ecommerce/ IT systems branch.</br>Particularly focusing on enterprise-level development and infrastructure architecture, Casey strives to help his customers reach the full potential of their enterprises by cutting useless extra costs and maximizing their networks and systems.</br>Casey is currently a Mozilla Rep, and he is an enthusiastic supporter of OSS (open source software) and innovative technologies that are allowing start-ups and major businesses alike to save money and improve their productivity. </br></br>
-                        </p>
+                        <h1>{{name}}</h1>
+                        <h3>{{title}}</h3>
+                        <p>{{description}}</br></br></p>
                     </div>
                     <!-- /About section -->
                      
                     <!-- Personal info section -->
                 	<ul class="personal-info">
-						<li><label>Name</label><span>Casey Becking</span></li>
-                        <li><label>Birthday</label><span>January 1st, 1984</span></li>
-                        <li><label>Address</label><span>Huntington Beach, CA</span></li>
-                        <li><label>Email</label><span class="word-wrap"><a href="mailto:casey@becking.me">casey@becking.me</a></span></li>
-                        <li><label>Phone</label><span>+949 874 3432</span></li>
-                        <li><label>Website</label><span class="word-wrap">casey.becking.me</span></li>
+						<li><label>Name</label><span>{{name}}</span></li>
+                        <li><label>Birthday</label><span>{{birthday}}</span></li>
+                        <li><label>Address</label><span>{{city}}, {{state}}</span></li>
+                        <li><label>Email</label><span class="word-wrap"><a href="mailto:{{email}}">{{email}}</a></span></li>
+                        <li><label>Phone</label><span>{{phone}}</span></li>
+                        <li><label>Website</label><span class="word-wrap">{{website}}</span></li>
                     </ul>
                     <!-- /Personal info section -->
                 </div>        
@@ -129,7 +128,7 @@
                                     <h4>Sr. Ecommerce Web Developer<span class="timelineDate">January 2012 – January 2014</span></h4>
                                     <h5>Volcom</h5>                                   
                                     <p>
-                                    •   Cranking out scalable web applications. Making web pages that aren't just beautiful after page load, but also after "view source."<br />
+                                    •   Cranking out scalable web applications. Making web pages that arent just beautiful after page load, but also after "view source."<br />
                                     •    Working within the demandware e-commerce platform to build, stylize and customize the shopping experience.<br />
                                     •   Hand built a product information management tool to interface with the demand where business manager.<br />
                                     •   Closely working with the VP of sales and COO to build and modify budgets according to our e-commerce roadmap.<br />
@@ -346,17 +345,17 @@
                     <div class="contact-info">
                         <h3 class="main-heading"><span>Contact info</span></h3>
                     	<ul>
-                            <li>Huntington Beach, CA<br /><br /></li>
-                            <li>Email: casey@becking.me</li>
-                            <li>Phone: +949 874 3432</li>
-                            <li>Website: casey.becking.me</li>
+                            <li>{{city}}, {{state}<br /><br /></li>
+                            <li>Email: {{email}}</li>
+                            <li>Phone: {{phone}}</li>
+                            <li>Website: {{website}}</li>
                         </ul>
                     </div>
                     <!-- /Contact Info -->
                     
                     <!-- Contact Form -->
                     <div class="contact-form">
-                        <h3 class="main-heading"><span>Let's keep in touch</span></h3>
+                        <h3 class="main-heading"><span>Lets keep in touch</span></h3>
                         <div id="contact-status"></div>
                         <form action="" id="contactform">
                             <p>
@@ -383,7 +382,7 @@
             
             <!-- Footer -->
 			<footer>
-            	<div class="copyright">Copyright © 2013 Casey Becking</div>
+            	<div class="copyright">Copyright © 2013 {{name}}</div>
             </footer>
             <!-- /Footer --> 
             
