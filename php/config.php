@@ -1,7 +1,7 @@
 <?
 	//define the receiver of the email
 	
-	define('TO_NAME','Rbista');
+	define('TO_NAME','Casey Becking');
 	define('TO_EMAIL','caseybecking@gmail.com');
 	define('SUBJECT','Contact from your website');	
 	
