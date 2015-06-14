@@ -1,26 +1,31 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+title: About Casey Becking
+excerpt: ""
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: 2015-06-13-fiji-hike-1.jpg
+  credit: Casey Becking
+share: true
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Casey Becking is a driven, passionate and experience professional within the Ecommerce/ IT systems branch.
 
-## So Simple Theme is all about:
+Currently manages
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+* [Volcom][206b4f1b]
+* [Tretorn][5b8e7062]
+* [Outerknown][9b896833]
+* [Electric California][d95e54ef]
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+  [206b4f1b]: http://www.volcom.com "Volcom"
+  [5b8e7062]: http://www.tretorn.com "Tretorn"
+  [9b896833]: http://www.outerknown.com "Outerknown"
+  [d95e54ef]: http://www.electriccalifornia.com "Electric California"
 
-[^1]: Example: *domain.com/category-name/post-title*
+on [Magento][9caaf802], on behalf of [Kering][e1095229] Shared Services. Stand out system architect/Technical Liaison able to speak both business and technical elements with clients
+
+  [9caaf802]: http://magentocommerce.com "Magento"
+  [e1095229]: http://www.kering.com "Kering"
+
+Particularly focusing on enterprise-level development and infrastructure architecture, Casey strives to help his customers reach the full potential of their enterprises by cutting useless extra costs and maximizing their networks and systems.

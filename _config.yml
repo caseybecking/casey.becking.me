@@ -1,10 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: Casey Becking
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+description:
+logo:
 search: true
+url: //casey.becking.me
 url: http://localhost:4000
 
 # Jekyll configuration
@@ -31,24 +32,24 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Casey Becking
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: caseybecking@gmail.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
+  twitter: caseybecking
+  facebook: caseybecking
+  github: caseybecking
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
+  linkedin: caseybecking
+  instagram: caseybecking
   flickr: #username
   tumblr: #username
   pinterest: #username
   weibo: #userid
   google:
-    plus: #username
-    analytics:
-    verify:
+    plus: caseybecking
+    analytics: UA-64038395-1
+    verify: UA-64038395-1
     ad-client:
     ad-slot:
   bing-verify:
