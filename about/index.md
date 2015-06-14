@@ -28,4 +28,6 @@ on [Magento][9caaf802], on behalf of [Kering][e1095229] Shared Services. Stand o
   [9caaf802]: http://magentocommerce.com "Magento"
   [e1095229]: http://www.kering.com "Kering"
 
-Particularly focusing on enterprise-level development and infrastructure architecture, Casey strives to help his customers reach the full potential of their enterprises by cutting useless extra costs and maximizing their networks and systems.
+Particularly focusing on enterprise-level development and infrastructure architecture, Casey strives to help his customers reach the full potential of their enterprises by cutting useless extra costs and maximizing their networks and systems. For more information about my career please follow this link to my [Linkedin Profile][111d61c2]
+
+  [111d61c2]: http://www.linkedin.com/in/caseybecking "Linkedin Profile"
