@@ -14,7 +14,7 @@ _June 13, 2015_
 
 >"Daddy can I help clean?"
 
-**Me:**
+**Dad:**
 
 >"Sure"
 
@@ -31,7 +31,7 @@ _June 2, 2015_
 >Daddy I just went poo poo
 
 
-**Me:**
+**Dad:**
 
 >Do you need me to do anything?
 
@@ -55,7 +55,7 @@ _May 29, 2015_
 
 >mommy! I didn't want THIS doll house. I wanted the one that gags has at her house.
 
-**Wife:**
+**Mom:**
 
 >J. You need to understand that there are a lot of kids who don't have nice things, or toys, or nice houses to live in...blah blah mommitty blobitty lecturing talk...
 
@@ -95,7 +95,7 @@ _April 29, 2015_
 
 >(whine)
 
-**Wife:**
+**Mom:**
 
 >Jocelyn. When you speak like that instead of asking politely, we will not answer. From now on you need to use your big girl words.
 
@@ -107,7 +107,7 @@ _April 29, 2015_
 
 _April 16, 2015_
 
-**Me:**
+**Dad:**
 
 >what makes you so wonderful?
 J: ummm?? YOU!!!! And daddy and papa and gaga.
@@ -124,7 +124,7 @@ _April 16, 2015_
 
 _April 1, 2015_
 
-**Wifes mom:**
+**Moms mom:**
 
 >here drink your water honey.
 J: don't call me honey!! Honey is for bees!
@@ -139,7 +139,7 @@ _Laying in hotel bed..._
 
 >mommy, are we going to stay here forever?
 
-**Wife:**
+**Mom:**
 
 >no baby. Why do you like it here and want to stay?
 
@@ -147,7 +147,7 @@ _Laying in hotel bed..._
 
 >uh huh
 
-**Wife:**
+**Mom:**
 
 >what do you like about it here?
 
@@ -181,7 +181,7 @@ _March 3, 2015_
 
 >"She told me I'm gonna be BIG and FAT if I eat all my snacks!"
 
-**Wife:**
+**Mom:**
 
 >"Sooo...did you eat your snacks?"
 
@@ -189,7 +189,7 @@ _March 3, 2015_
 
 >"Well I told her 'No No No No' and she went away and I ate my snacks"
 
-**Wife:**
+**Mom:**
 
 >**High Five** "You handled that so great, you need to eat all of your snacks and lunch to grow to be a big girl! NEVER stop eating your lunches and snacks because a girl says you'll become fat."
 
@@ -225,7 +225,7 @@ _February 15, 2015_
 
 >Mommy, are you SURE you know how to work daddy's car?
 
-**Wife:**
+**Mom:**
 
 >Yes Jocelyn.
 
@@ -245,7 +245,7 @@ _February 8, 2015_
 
 >can I smell those mommy?
 
-**Me:**
+**Dad:**
 
 >sure.
 
@@ -257,7 +257,7 @@ _February 8, 2015_
 
 _February 7, 2015_
 
-**Wife:**
+**Mom:**
 
 >Jocelyn!!! You need to pay attention! If you want me to do your nails you have to pay attention. You just wiped off all the polish!
 
@@ -265,7 +265,7 @@ _February 7, 2015_
 
 >it's ok.
 
-**Wife:**
+**Mom:**
 
 >it's ok? Now we have to do them again.
 
@@ -285,7 +285,7 @@ _January 26, 2015_
 
 _January 18, 2015_
 
-**Wife:**
+**Mom:**
 
 >did you clean up your playdoh?
 
@@ -293,7 +293,7 @@ _January 18, 2015_
 
 >uh huh.
 
-**Wife:**
+**Mom:**
 
 >you did?
 
@@ -301,7 +301,7 @@ _January 18, 2015_
 
 >yes.
 
-**Wife:**
+**Mom:**
 
 >so If I go in your room it's going to be put away? Ok (start walking to the room)
 
