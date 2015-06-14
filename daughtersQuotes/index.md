@@ -9,6 +9,22 @@ image:
   credit: Casey Becking
 ---
 
+_June 14, 2015_
+
+**J:**
+
+>give me a piggy back ride.
+
+**Mom:**
+
+>well where do you want to go?
+
+**J:**
+
+>To all the places in the world. To all the sky scrapers. But they're just pretend sky scrapers. And we'll go until you get very tired and you'll go slow and I'll say gitty up gitty up and you'll go slooooow...until you get tired.
+
+---
+
 _June 13, 2015_
 
 **J:**
