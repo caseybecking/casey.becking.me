@@ -5,7 +5,8 @@ date: 2015-06-13T22:04:10-07:00
 modified:
 excerpt:
 image:
-  feature:
+  feature: headers/2015-06-13-fiji-dock-1.jpg
+  credit: Casey Becking
 ---
 
 _June 13, 2015_

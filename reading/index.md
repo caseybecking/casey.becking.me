@@ -6,7 +6,7 @@ modified:
 excerpt:
 share: true
 image:
-  feature: 2015-06-13-fiji-deck.jpg
+  feature: headers/2015-06-13-fiji-deck.jpg
   credit: Casey Becking
 ---
 

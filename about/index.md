@@ -4,7 +4,7 @@ title: About Casey Becking
 excerpt: ""
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: 2015-06-13-fiji-hike-1.jpg
+  feature: headers/2015-06-13-fiji-hike-1.jpg
   credit: Casey Becking
 share: true
 ---
