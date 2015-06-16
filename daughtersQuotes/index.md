@@ -9,6 +9,14 @@ image:
   credit: Casey Becking
 ---
 
+_June 16, 2015_
+
+**J:**
+
+>"Mommy play balloon with me. You have to count and if it falls you have to go back to 0. And the under is poisonous so you have to put on chocolate boots to get away from the poisonous.
+
+---
+
 _June 14, 2015_
 
 **J:**
