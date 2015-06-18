@@ -17,6 +17,7 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
+  - jekyll-gallery-generator
 
 kramdown:
   auto_ids: true
@@ -52,3 +53,24 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
+
+
+gallery:
+  # path to the gallery
+  dir: photos
+  # title for gallery index
+  title: "Photos"
+  # title prefix for gallery page. title=title_prefix+gallery_name
+  title_prefix: "Photos: "
+  # field to control sorting of galleries for the index page
+  # (possible values are: title, date_time, best_image)
+  sort_field: "date_time"
+  # sizes for thumbnails
+  thumbnail_size:
+    x: 400
+    y: 400
+  # custom configuration for individual gallery
+  # best_image is image for the index page (defaults to last image)
+  galleries:
+    fiji:
+      best_images: 2015-06-06 15.33.51.jpg
